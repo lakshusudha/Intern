@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>first web page</title>
+</head>
+<body>
+    <h1>welcome!</h1>
+    <h2>hello</h2>
+    <h3>hii</h3>
+    <h4>My first</h4>
+    <h5>Web page</h5>
+    <h6>Thank yoy!</h6>
+    <p><b>Lorem </b>ipsum dolor <i>sit</i> amet consectetur, adipisicing <u>elit</u>.<strong> Dolorem</strong> doloremque neque <em>veritatis</em> commodi similique, <mark>ad</mark> odio quia <ins>quidem</ins> exercitationem ex consequatur quam delectus! Tempora voluptas amet eum, quia eveniet exercitationem.
+</p>
+</body>
+    
