@@ -1,0 +1,52 @@
+ <p><b>Table</b></p>
+    <table border="2" cellspacing="5" cellpadding="5" bgcolor="skyblue">
+        <p>Rowspan and colspan</p>
+        <thead>
+            <tr>
+              <th>S.no</th>
+                <th>Name</th>
+                <th>Gmail</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr> 
+                <td>1</td>
+                <td>sow</td>
+                <td rowspan="3">sowlaksh@gmail.com</td>
+            </tr>
+            <tr>
+                <td colspan="3">sow</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>sow</td>
+            </tr>
+            </tbody>
+        </table>
+        <table border="4" cellspacing="7" cellpadding="4" bgcolor="pink">
+            <p>to change</p>
+            <tr>
+                <th>sno</th>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <th>name</th>
+                <td>sow </td>
+                <td>lakshu</td>
+                <td>jan</td>
+            </tr>
+            <tr>
+                <th>mail id</th>
+                <td>lakshu@gmail.com</td>
+                <td>sow@gmail.com</td>
+                <td>js@gmail.com</td>
+            </tr>
+
+        </table>
+</body>
+</html>
+
+
+
