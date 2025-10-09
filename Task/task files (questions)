@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>task</title>
+   </head>
+    <body>
+    <p>q1</p>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>name</th>
+                <th>mail</th>
+                <th>mobile</th>
+                <th>address</th>
+                <th>city</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>sow</td>
+                <td>sow@gmail.com</td>
+                <td>1234568</td>
+                <td>xxxx</td>
+                <td>madurai</td>
+            </tr>
+            <tr>
+                <td>lakshu</td>
+                <td>lakshu@gmail.com</td>
+                <td>0987553</td>
+                <td>yyyy</td>
+                <td>chennai</td>
+            </tr>
+        </tbody>
+    </table>
+    <table border="2">
+        <p>q2</p>
+        <thead>
+            <tr>
+              <th>Course</th>
+                <th>Boarduniversity</th>
+                <th>Educational Institution</th>
+                <th>Year of pass</th>
+                <th>%of marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr> 
+                <td>MCA</td>
+                <td>Andhra university</td>
+                <td >DR.B.V.Raju institute of computer education </td>
+                <td>2013</td>
+                <td>8.12(CGPA)</td>
+            </tr>
+            <tr>
+                <td >DEGREE</td>
+                <td>Andhra university</td>
+                <td >DR.C.S.N.PG&DEGREE college </td>
+                <td>2010</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td >INTERMEDIATE</td>
+                <td>Board of intermediate</td>
+                <td >Sri chaitanya junior college </td>
+                <td>2007</td>
+                <td>67 %</td>
+            </tr>
+            </tbody>
+        </table>
+    <p>q3</p>
+    <ul type="none">
+        <li>Interests</li>
+        <ul type="square">
+            <li>drawing</li>
+            <li>photography</li>
+            <li>design</li>
+            <li>programming</li>
+            <li>computer science</li>
+        </ul>
+    </ul>
+    <p3>q4</p3>
+    <ol>
+        <p>Extracurricular</p>
+        <ol type="I">
+            <li>Recycling club</li>
+            <li>Gardening club</li>
+            <li>Book club</li>
+        </ol>
+
+    </ol>
+    <p>q6</p>
+    <dl>
+        <dt>Artificial Intelligenece</dt>
+        <dd>Artifical intelligenec and data science</dd>
+        <dd>It includes ML, NLP, DL</dd>
+    </dl>
+
+
+</body>
+</html>
+
+
