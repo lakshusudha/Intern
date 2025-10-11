@@ -1,4 +1,4 @@
-Index.html:
+<!--index.html-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,8 +14,7 @@ Index.html:
 </head>
 </body>
 </html>
-
-About.html:
+<!--about-->
 <!DOCTYPE html>
 <html lang="en">
 <head></head>
@@ -34,7 +33,7 @@ About.html:
 </body>
 </html>
 
-Qualification.html:
+<!--qualification-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,8 +52,7 @@ Qualification.html:
     </div>
 </body>
 </html>
-
-BioData.html:
+<--!Biodata-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,8 +73,7 @@ BioData.html:
 
     </div>
 </html>
-
-Project.html:
+<!--project.html-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,7 +93,7 @@ Project.html:
 </body>
 </html>
 
-Contact.html:
+<!--Contact.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
